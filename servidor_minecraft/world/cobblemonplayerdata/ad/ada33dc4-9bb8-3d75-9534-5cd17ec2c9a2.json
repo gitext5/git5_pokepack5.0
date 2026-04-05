@@ -1,0 +1,176 @@
+{
+  "uuid": "ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "694e387a-5695-4c17-a687-05930cc4e968",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 34,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 115,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 88,
+    "totalPvNBattleVictoryCount": 25,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 9,
+      "bug": 6,
+      "flying": 4,
+      "water": 6,
+      "electric": 3,
+      "fairy": 3,
+      "rock": 1,
+      "ground": 1,
+      "fire": 1,
+      "grass": 1,
+      "poison": 3,
+      "ghost": 1,
+      "fighting": 2,
+      "psychic": 1,
+      "dark": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:hoppip": 2,
+      "cobblemon:bunnelby": 3,
+      "cobblemon:purrloin": 3,
+      "cobblemon:skwovet": 3,
+      "cobblemon:patrat": 2,
+      "cobblemon:wooloo": 6,
+      "cobblemon:seedot": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:ledyba": 2,
+      "cobblemon:koffing": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:pidgey": 3,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:diglett": 1,
+      "cobblemon:hoothoot": 1,
+      "cobblemon:drowzee": 1,
+      "cobblemon:geodude": 3,
+      "cobblemon:wimpod": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:gastly": 3,
+      "cobblemon:tentacool": 1,
+      "cobblemon:krabby": 2,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:wooper": 1,
+      "cobblemon:drifblim": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:tandemaus": 1,
+      "cobblemon:kakuna": 1,
+      "cobblemon:munna": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:pidove": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:meowth": [
+        "female"
+      ],
+      "cobblemon:patrat": [
+        "male"
+      ],
+      "cobblemon:ledyba": [
+        "female",
+        "male"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:psyduck": [
+        "female",
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:glameow": [
+        "female"
+      ],
+      "cobblemon:buneary": [
+        "male"
+      ],
+      "cobblemon:kricketot": [
+        "male"
+      ],
+      "cobblemon:fidough": [
+        "male",
+        "female"
+      ],
+      "cobblemon:geodude": [
+        "female"
+      ],
+      "cobblemon:ponyta": [
+        "female"
+      ],
+      "cobblemon:maushold": [
+        "genderless",
+        "maushold-family-four"
+      ],
+      "cobblemon:oddish": [
+        "male"
+      ],
+      "cobblemon:galvantula": [
+        "male"
+      ],
+      "cobblemon:gastly": [
+        "male"
+      ],
+      "cobblemon:poliwag": [
+        "male"
+      ],
+      "cobblemon:crabrawler": [
+        "female"
+      ],
+      "cobblemon:zigzagoon": [
+        "female"
+      ],
+      "cobblemon:drowzee": [
+        "male"
+      ],
+      "cobblemon:minun": [
+        "male"
+      ],
+      "cobblemon:nickit": [
+        "female"
+      ],
+      "cobblemon:squawkabilly": [
+        "male",
+        "squawkabilly-color-yellow"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:bouffalant": [
+        "female"
+      ],
+      "cobblemon:watchog": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:snubbull": [
+        "male"
+      ],
+      "cobblemon:spinarak": [
+        "female"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:timburr": [
+        "male",
+        "tree-none"
+      ]
+    }
+  }
+}

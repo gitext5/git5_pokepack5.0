@@ -1,0 +1,18 @@
+{
+	id: "ffd4bc32-c1e7-3dc8-84b9-c4e70569695d"
+	type: "player"
+	player_name: "Renzopopo"
+	ranks: {
+		ffd4bc32-c1e7-3dc8-84b9-c4e70569695d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Renzopopo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#61FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "ffd4bc32c1e73dc884b9c4e70569695d"
+	name: "Renzopopo#ffd4bc32"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

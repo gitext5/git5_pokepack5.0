@@ -1,0 +1,29 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+java/
+*.exe
+*.msi
+*.pyc
+*.msp
+*.msx
+msx.py
+
+# Mods
+servidor_minecraft/mods/
+
+# Mundo
+#servidor_minecraft/world/
+
+# Logs
+servidor_minecraft/logs/
+
+servidor_minecraft/world/data/lootr/
+
+**/world/data/lootr/

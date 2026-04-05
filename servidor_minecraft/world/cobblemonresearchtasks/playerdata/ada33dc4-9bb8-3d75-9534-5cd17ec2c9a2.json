@@ -1,0 +1,292 @@
+{
+  "species": {
+    "cobblemon:charmander": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_10": 32,
+        "level_up_10": 8,
+        "defeat_type_ground_5": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:meowth": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 1,
+        "level_up_10": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:patrat": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:ledyba": {
+      "progress": 3,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 3,
+        "defeat_any_10": 3,
+        "defeat_type_fighting_5": 1,
+        "level_up_10": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:magikarp": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_10": 9,
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:psyduck": {
+      "progress": 4,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 4,
+        "defeat_any_10": 23,
+        "level_up_10": 5,
+        "defeat_type_grass_5": 2
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:mareep": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 4
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:glameow": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:buneary": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 3,
+        "level_up_10": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:kricketot": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:fidough": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:geodude": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 11,
+        "defeat_species_paras": 2,
+        "level_up_10": 3
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:ponyta": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 11
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:maushold": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:oddish": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:galvantula": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:gastly": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:poliwag": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:crabrawler": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:zigzagoon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:drowzee": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:minun": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:nickit": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:squawkabilly": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "friendship_80": 49
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:gyarados": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 87,
+        "defeat_any_30": 9,
+        "level_up_30": 2,
+        "ride_3k": 405
+      },
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:bouffalant": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:watchog": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 36
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:snubbull": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:spinarak": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:charmeleon": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_25": 7,
+        "friendship_80": 90,
+        "defeat_any_20": 22
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:timburr": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    }
+  },
+  "claimedGlobalTiers": [],
+  "claimedSpeciesRewards": [],
+  "gaveResearchBook": true
+}

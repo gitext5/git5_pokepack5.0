@@ -1,0 +1,18 @@
+{
+	id: "25537c07-713d-3925-9844-014a82514044"
+	type: "player"
+	player_name: "BlaseTK"
+	ranks: {
+		25537c07-713d-3925-9844-014a82514044: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BlaseTK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+	}
+	message_history: [ ]
+	extra: { }
+}

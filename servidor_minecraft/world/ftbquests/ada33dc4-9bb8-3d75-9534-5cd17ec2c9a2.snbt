@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "ada33dc49bb83d7595345cd17ec2c9a2"
+	name: "Sr_Riva#ada33dc4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

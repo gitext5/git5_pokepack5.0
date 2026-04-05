@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "7ed74cf16ee83ff28e7871af1bd89aa3"
+	name: "Elishy_#7ed74cf1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
